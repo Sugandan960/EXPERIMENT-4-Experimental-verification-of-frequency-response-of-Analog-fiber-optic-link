@@ -74,4 +74,5 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## RESULT
 
+The experimental verification of frequency response of analog fiber optic is done successfully
 
