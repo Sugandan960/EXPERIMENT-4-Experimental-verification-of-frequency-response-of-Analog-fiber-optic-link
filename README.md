@@ -64,8 +64,8 @@ Fiber optic links can be used for transmission of digital as well as analog sign
      15KHz               148V                          0.684       1.624
      16KHz               148V                          0.672       1.726
      33KHz               148V                          0.682       1.824
-     3MHz                136V                          0.28        1.526
-https://github.com/Sugandan960/EXPERIMENT-4-Experimental-verification-of-frequency-response-of-Analog-fiber-optic-link
+     3MHz                136V                          0.28        1.934
+     
 ## MODEL GRAPH
 ![Uploading image.png…]()
 
