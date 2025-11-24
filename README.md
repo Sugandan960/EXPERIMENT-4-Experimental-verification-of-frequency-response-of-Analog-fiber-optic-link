@@ -67,7 +67,8 @@ Fiber optic links can be used for transmission of digital as well as analog sign
      3MHz                136V                          0.28        1.934
      
 ## MODEL GRAPH
-![Uploading image.png…]()
+
+<img width="674" height="331" alt="17639574149906912604211665294583" src="https://github.com/user-attachments/assets/63a3f696-2def-4af5-8ce4-edc71f1aaa81" />
 
 
 ## Result:
