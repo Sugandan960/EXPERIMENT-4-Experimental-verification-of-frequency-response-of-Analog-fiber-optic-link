@@ -70,7 +70,8 @@ https://github.com/Sugandan960/EXPERIMENT-4-Experimental-verification-of-frequen
 ![Uploading image.png…]()
 
 
-## RESULT
+## Result:
 
 The experimental verification of frequency response of analog fiber optic is done successfully
 
+esult:
